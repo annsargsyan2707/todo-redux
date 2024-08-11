@@ -1,6 +1,6 @@
 import React from "react";
 
-const TodoItem = () => {
+const TodoItem = ({ id, completed, text }) => {
   return <div>TodoItem</div>;
 };
 
