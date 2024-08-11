@@ -102,7 +102,7 @@ const DBTest = () => {
   };
 
   return (
-    <div>
+    <div className="main">
       <div>
         <input
           value={editingUserName}
